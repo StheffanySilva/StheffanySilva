@@ -1,6 +1,6 @@
 Hi there 👋, I'm Stheffany Silva 
 - 🛠 Analista de testes / QA 🖥
-- 🎹 Adoro música e séries; animes
+- 🎹 Adoro música, séries e animes
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
 
