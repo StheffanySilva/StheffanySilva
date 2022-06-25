@@ -1,4 +1,4 @@
-Hi there 👋, I'm Stheffany Silva 
+## Óla 👋, eu sou a Stheffany Silva 
 - 🛠 Analista de testes / QA 🖥
 - 🎹 Adoro música, séries e animes'
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
